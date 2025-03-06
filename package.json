@@ -24,6 +24,8 @@
     "@nestjs/core": "^11.0.1",
     "@nestjs/microservices": "^11.0.9",
     "@nestjs/platform-express": "^11.0.1",
+    "amqp-connection-manager": "^4.1.14",
+    "amqplib": "^0.10.5",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1"
   },
